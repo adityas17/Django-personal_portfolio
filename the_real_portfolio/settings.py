@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'hcl4!s8ru0ezw1-4b6mtt1b(s4=_w*h+ry_8vd#4wafui==r+%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bobby17.pythonanywhere.com']
 
 
 # Application definition
